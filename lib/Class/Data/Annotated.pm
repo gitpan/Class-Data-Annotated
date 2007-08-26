@@ -17,7 +17,7 @@ use warnings;
     
 =cut
 
-our $VERSION = '0.1';
+our $VERSION = '0.2';
 my $callbacks = {
                 key_does_not_exist => sub {},
                 index_does_not_exist => sub {},

@@ -1,6 +1,5 @@
 use Test::More;
 use Test::Exception;
-use YAML;
 my $obj;
 my $aref = [qw|baz boz|];
 my $struct = {foo => {bar => $aref}};
